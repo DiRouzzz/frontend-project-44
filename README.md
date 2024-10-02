@@ -13,11 +13,15 @@
 <li>npm link</li>
 </ul></em></h4>
 <h3>Запуск игр:</h3>
-<em><h4><li>brain-calc</li>
+<em><h4>
+<ul>
+<li>brain-calc</li>
 <li>brain-progression</li>
 <li>brain-even</li>
 <li>brain-gcd</li>
-<li>brain-prime</li></h4></em>
+<li>brain-prime</li>
+</ul>
+</h4></em>
 
 <h3>Игры:</h3>
 
