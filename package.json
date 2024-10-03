@@ -18,7 +18,6 @@
 		"brain-prime": "bin/brain-prime.js"
 	},
 	"dependencies": {
-		"eslint-plugin-compat": "^6.0.1",
 		"readline-sync": "^1.4.10"
 	},
 	"devDependencies": {
