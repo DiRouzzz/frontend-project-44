@@ -18,11 +18,14 @@
 		"brain-prime": "bin/brain-prime.js"
 	},
 	"dependencies": {
+		"@eslint/eslintrc": "^3.1.0",
 		"readline-sync": "^1.4.10"
 	},
 	"devDependencies": {
 		"@eslint/js": "^9.11.1",
-		"eslint": "^9.11.1",
+		"eslint": "^8.57.1",
+		"eslint-config-airbnb-base": "^15.0.0",
+		"eslint-plugin-import": "^2.31.0",
 		"globals": "^15.9.0"
 	}
 }

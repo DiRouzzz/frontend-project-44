@@ -16,4 +16,3 @@ const generateRound = () => {
 export default () => {
   run(description, generateRound);
 };
-
